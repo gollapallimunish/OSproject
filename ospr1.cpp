@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+Printf("NAME:G.MUNESWARARAO\n SECTION:K1651 \t Rollno:A24 \n  ASSIGNED PROJECT :4 \n SUBMITTED TO:AMANPREET KAUR\n");
 struct processes
 {
 	char proc_name[10];
